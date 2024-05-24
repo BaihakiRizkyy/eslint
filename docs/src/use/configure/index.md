@@ -1,5 +1,5 @@
 ---
-title: Configure ESLint
+title: Configure ESLintasasasas
 eleventyNavigation:
     key: configure
     parent: use eslint
@@ -21,7 +21,7 @@ Here are some of the options that you can configure in ESLint:
 
 All of these options give you fine-grained control over how ESLint treats your code.
 
-## Table of Contents
+## Table of Contentssssss
 
 [**Configuration Files**](configuration-files)
 
